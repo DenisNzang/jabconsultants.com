@@ -1203,4 +1203,9 @@ form label {
   box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
+.my-section {
+  font-family: "Syncopate";
+  font-size: 18px;
+  text-align: center;
+}
 /*# sourceMappingURL=style.css.map */
