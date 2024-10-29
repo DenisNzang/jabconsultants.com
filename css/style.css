@@ -15,6 +15,15 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../fonts/Montserrat/Montserrat-Regular.woff') format('woff'),
+  url('../fonts/Montserrat/Montserrat-Regular.ttf') format('truetype'),
+  url('../fonts/Montserrat/Montserrat-Regular.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* =======================================================
 *
 * 	Template Style 
@@ -1204,7 +1213,7 @@ form label {
 }
 
 .my-section {
-  font-family: "Syncopate";
+  font-family: "Montserrat";
   font-size: 18px;
   text-align: center;
 }
