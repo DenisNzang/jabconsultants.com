@@ -1212,7 +1212,12 @@ form label {
   box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
-.my-section {
+.my-center-section {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+.my-left-section {
   font-family: "Montserrat";
   font-size: 18px;
   text-align: left;
