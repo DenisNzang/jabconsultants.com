@@ -196,7 +196,7 @@ nav.navbar.bootsnav {
 .navbar-header a.navbar-brand:hover,
 .navbar-header a.navbar-brand:focus {
   display: inline-block;
-  color: #fff;
+  color: #adafb1;
   font-size: 24px;
   letter-spacing: 3px;
   font-family: "Syncopate";
@@ -210,7 +210,7 @@ nav.navbar.bootsnav {
 }
 .navbar-header a.navbar-brand span {
   display: inline-block;
-  color: white;
+  color: #adafb1;
   border-radius: 30px;
   text-transform: capitalize;
 }
@@ -765,4 +765,9 @@ nav.navbar.bootsnav .navbar-toggle i {
 
 .my-center-image {
   margin: auto;
+}
+
+.my-title {
+  font-size: 30px;
+  text-align: center;
 }
